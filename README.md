@@ -11,9 +11,9 @@ Projeto construído do evento Next Level Week da Rocktseat.
 
 ## 💻 Tecnologias
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## 📬 Contato 
 
